@@ -19,6 +19,6 @@
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugraozd&show_icons=true&theme=dark&locale=en&layout=compact" alt="bugraozd" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugraozd&show_icons=true&theme=dark&locale=en" alt="bugraozd" /></p>
 
