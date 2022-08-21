@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugraozd" alt="bugraozd" /></a> </p>
 
-- 🔭 I’m currently working on a project that aims to create a low-code software developing platform. [Rappider](https://www.rappider.com/)
+- 🔭 I’m currently working on a project that aims to create a low-code software developing platform called [Rappider](https://www.rappider.com/)
 
 - 📫 How to reach me **bugraozdilek@gmail.com**
 
