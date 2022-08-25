@@ -20,8 +20,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<a href="https://ngrx.io/guide/store" target="_blank" rel="noreferrer"> 
+<img src="https://ngrx.io/assets/images/badge.svg" alt="ngrx" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
