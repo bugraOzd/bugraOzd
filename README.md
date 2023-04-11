@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bugra Ozdilek</h1>
+<h1 align="center">Hi, I'm Bugra Ozdilek</h1>
 <h3 align="center">I’m a software engineering student at Bahcesehir University and am also currently working as a frontend developer on a project that aims to create a low-code platform. I’m experienced with Angular, TypeScript, NgRx, RxJs.</h3>
 
 
