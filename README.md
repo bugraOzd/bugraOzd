@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Bugra Ozdilek</h1>
-<h3 align="center">I’m a software engineering student at Bahcesehir University and am also currently working as a frontend developer on a project that aims to create a low-code platform. I’m experienced with Angular, TypeScript, NgRx, RxJs.</h3>
+<h3 align="center">Hello! I am a software engineering student at Bahcesehir University, specializing in web development. I am currently working as a lead developer at a company that is developing a low-code platform. My main areas of expertise include Angular, Typescript, Ngrx, and RxJS.</h3>
 
 
-- 🔭 I’m currently working on a project that aims to create a low-code software developing platform. [Rappider](https://www.rappider.com/)
+- I’m currently working on a project that aims to create a low-code software developing platform. [Rappider](https://www.rappider.com/)
 
-- 📫 How to reach me **bugraozdilek@gmail.com**
+- How to reach me => **bugraozdilek@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
