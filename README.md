@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bugra Ozdilek</h1>
-<h3 align="center">Hello! I am a software engineering student at Bahcesehir University, specializing in web development. I am currently working as a lead developer at a company that is developing a low-code platform. My main areas of expertise include Angular, Typescript, Ngrx, and RxJS.</h3>
+<h3 align="center">Hey there! I'm a software engineer with a passion for all things web development. Leading the way as a developer at a dynamic company engaged in crafting a low-code platform, I'm driven to shape the digital landscape. My proficiency lies in Angular, Typescript, Ngrx, and RxJS.</h3>
 
 
 - I’m currently working on a project that aims to create a low-code software developing platform. [Rappider](https://www.rappider.com/)
