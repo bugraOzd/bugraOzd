@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Bugra Ozdilek</h1>
 <h3 align="center">Versatile and dynamic full-stack developer with over 3 years of experience, specializing in frontend technologies. Adept at leading engineering teams, conducting thorough code reviews, and playing a pivotal role in key architectural decisions. Demonstrated expertise in implementing complex features, with a primary focus on frontend development. Possesses a wide-ranging tech stack proficiency in various frameworks and libraries. Skilled at fostering effective collaboration with backend teams to ensure the successful integration of projects.</h3>
 
-
-- I’m currently working on a project that aims to create a low-code software developing platform. [Rappider](https://www.rappider.com/)
-
 - How to reach me => **bugraozdilek@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
